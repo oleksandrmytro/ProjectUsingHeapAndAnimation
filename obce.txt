@@ -1,0 +1,8 @@
+cisloKraje=734, PSC=82031, obec=Obec347, pocetMuzu=43632, pocetZen=8802, celkem=52434
+cisloKraje=384, PSC=71540, obec=Obec206, pocetMuzu=57358, pocetZen=50197, celkem=107555
+cisloKraje=524, PSC=11784, obec=Obec949, pocetMuzu=57526, pocetZen=79985, celkem=137511
+cisloKraje=59, PSC=83615, obec=Obec124, pocetMuzu=61352, pocetZen=90895, celkem=152247
+cisloKraje=710, PSC=61465, obec=Obec303, pocetMuzu=5038, pocetZen=63754, celkem=68792
+cisloKraje=790, PSC=56529, obec=Obec543, pocetMuzu=5826, pocetZen=27756, celkem=33582
+cisloKraje=196, PSC=83614, obec=Obec95, pocetMuzu=33984, pocetZen=65660, celkem=99644
+cisloKraje=991, PSC=89857, obec=Obec248, pocetMuzu=3647, pocetZen=49250, celkem=52897
